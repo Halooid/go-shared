@@ -1,12 +1,12 @@
 module github.com/halooid/backend/go-shared
 
-go 1.22.0
+go 1.24.0
 
 require (
 	github.com/MicahParks/keyfunc/v2 v2.1.0
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	google.golang.org/grpc v1.64.0
-	google.golang.org/protobuf v1.34.1
+	google.golang.org/protobuf v1.36.9
 )
 
 require (
